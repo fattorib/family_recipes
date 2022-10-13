@@ -1,4 +1,4 @@
-# Family secret recipes
+# Family Mysterious recipes
 
 Set of recipes as given by my grandma. 
 
